@@ -3,7 +3,7 @@
 #define COLOR_H
 
 #include "vec3.h"
-#include "rtweekend.h"
+#include "torch.h"
 #include "interval.h"
 
 #include <iostream>

@@ -3,7 +3,7 @@
 #define HITTABLE_H
 
 #include "ray.h"
-#include "rtweekend.h"
+#include "torch.h"
 
 class material;
 

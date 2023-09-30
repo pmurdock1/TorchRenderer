@@ -1,5 +1,5 @@
 
-#include "rtweekend.h"
+#include "torch.h"
 
 #include "camera.h"
 #include "color.h"

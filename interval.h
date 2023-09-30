@@ -2,7 +2,7 @@
 #ifndef INTERVAL_H
 #define INTERVAL_H
 
-#include "rtweekend.h"
+#include "torch.h"
 
 class interval {
 public:
